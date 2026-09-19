@@ -1,0 +1,15 @@
+# Данные (не загружаем из-за размера)
+data/raw/*.csv
+data/processed/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ОС
+.DS_Store
+Thumbs.db
